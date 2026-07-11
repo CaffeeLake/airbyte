@@ -28,7 +28,7 @@ source-sftp-bulk = "source_sftp_bulk.run:run"
 docker = "^7.0.0"
 freezegun = "^1.4.0"
 pytest-mock = "^3.6.1"
-pytest = "^8.0.0"
+pytest = "^9.0.3"
 pytest-memray = "^1.6.0"
 
 

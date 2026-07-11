@@ -30,7 +30,7 @@ source-microsoft-sharepoint = "source_microsoft_sharepoint.run:run"
 [tool.poetry.group.dev.dependencies]
 pytest-mock = "^3.6.1"
 requests-mock = "^1.12.1"
-pytest = "^8"
+pytest = ">=8,<10"
 poethepoet = "^0.32.2"
 
 
